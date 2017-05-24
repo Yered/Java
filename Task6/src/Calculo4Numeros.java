@@ -14,7 +14,7 @@ public class Calculo4Numeros {
 		System.out.print("Introduce número 4: ");
 		num4 = teclado.nextInt();
 		teclado.close();
-		suma1y2 = num1 + num2;
+		suma1y2 = num1 + num2; 
 		producto3y4 = num3 * num4;
 		System.out.print("La suma del 1 y 2 es : " + suma1y2 + " y el producto de 3 y 4 es: " + producto3y4);
 	}

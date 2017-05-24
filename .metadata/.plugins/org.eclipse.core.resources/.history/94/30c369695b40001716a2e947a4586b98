@@ -1,0 +1,17 @@
+import java.util.Scanner;
+
+public class SumaProductoNumeros {
+
+	public static void main(String[] args) {
+		Scanner teclado = new Scanner(System.in);
+		int num1,suma,producto;
+		float num2;
+		System.out.print("Primer valor");
+		num1 = teclado.nextInt();
+		System.out.print("segundo");
+		num2 =  teclado.nextFloat();
+		suma = num1+num2;
+		System
+	}
+
+}

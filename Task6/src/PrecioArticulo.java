@@ -7,7 +7,7 @@ public class PrecioArticulo {
 		double precio;
 		System.out.println("Precio del articulo: ");
 		precio = teclado.nextDouble();
-		System.out.println("Cantidad de artículos: ");
+		System.out.println("Cantidad de artículos: "); 
 		cantidad = teclado.nextInt();
 		teclado.close();
 		System.out.println("La cantidad que se debe pagar es: " + precio*cantidad);
